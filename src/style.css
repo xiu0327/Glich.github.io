@@ -1,6 +1,10 @@
 @font-face {
   font-family: "둥근모꼴";
-  src: url("font/DungGeunMo.ttf") format("truetype");
+  font-weight: 400;
+  src: url(font/DungGeunMo.eot);
+  src: url(font/DungGeunMo.eot?#iefix) format("embedded-opentype"),
+    url(font/DungGeunMo.woff) format("woff"),
+    url(font/DungGeunMo.ttf) format("truetype");
 }
 
 body {
