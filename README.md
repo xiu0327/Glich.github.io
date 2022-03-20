@@ -2,6 +2,8 @@
 
 > 최종 완성본
 
+url : https://xiu0327.github.io/Glich.github.io/
+
 
 <img width="1419" alt="글리치 최종 완성" src="https://user-images.githubusercontent.com/78461009/159163650-b159fbae-ff7e-4889-a88c-c7805d8ee874.png">
 
